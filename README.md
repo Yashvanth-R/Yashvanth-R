@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/yashvanth-r](https://www.linkedin.com/in/yashvanth-r)
 
-- 💬 Ask me about **React.js, Next.js, Node.js, Express.js, Docker, Frontend Development, Database, Javascript, Typescript**
+- 💬 Ask me about **React.js, Next.js, Node.js, Nest.js, Express.js, Docker, Frontend Development, Database, Javascript, Typescript**
 
 - 📫 How to reach me **yashvanthr064@gmail.com**
 
