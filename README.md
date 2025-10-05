@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **CI/CD pipeline, Django**
 
-- 👯 I’m looking to collaborate on **Full stack projects**
-
 - 🤝 I’m looking for help with **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/yashvanth-r](https://www.linkedin.com/in/yashvanth-r)
