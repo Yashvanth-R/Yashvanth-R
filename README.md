@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as [Frontend Developer](https://www.linkedin.com/company/cybrisk-cyber/)
 
-- 🌱 I’m currently learning **CI/CD pipeline, Django**
+- 🌱 I’m currently learning **CI/CD pipeline**
 
 - 🤝 I’m looking for help with **DevOps**
 
