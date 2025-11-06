@@ -5,15 +5,24 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashvanth-r" alt="yashvanth-r" /></a> </p>
 
-- 🔭 I’m currently working as [Frontend Developer](https://www.linkedin.com/company/cybrisk-cyber/)
+🔭 **I’m currently working as:** Frontend Developer at F9 Cybrisk Tech Pvt. Ltd.  
+🌱 **I’m currently learning:** CI/CD pipeline and DevOps practices  
+👨‍💻 **All of my projects are available at:** [LinkedIn](https://www.linkedin.com/in/yashvanth-r) | [Portfolio](https://yashvanth-portfolio-alpha.vercel.app/)  
+💬 **Ask me about:** React.js, Next.js, Node.js, Nest.js, Express.js, Docker, and Frontend Development  
+📫 **Reach me at:** yashvanthr064@gmail.com  
+⚡ **Fun fact:** I love optimizing performance and crafting pixel-perfect, scalable UIs 🚀  
 
-- 🌱 I’m currently learning **CI/CD pipeline**
+---
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/yashvanth-r](https://www.linkedin.com/in/yashvanth-r)
+## 🧠 Tech Stack
 
-- 💬 Ask me about **React.js, Next.js, Node.js, Nest.js, Express.js, Docker, Frontend Development**
+**Frontend:** React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, Chakra UI, ShadCN/UI  
+**Backend:** Node.js, Express.js, Nest.js, FastAPI  
+**Database:** PostgreSQL, MongoDB, MySQL  
+**DevOps & Tools:** Docker, Git, GitHub, AWS, Vercel  
+**Others:** Redux Toolkit, Zustand, RESTful APIs, CI/CD  
 
-- 📫 How to reach me **yashvanthr064@gmail.com**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
