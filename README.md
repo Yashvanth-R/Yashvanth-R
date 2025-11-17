@@ -10,7 +10,7 @@
 👨‍💻 **All of my projects are available at:** [LinkedIn](https://www.linkedin.com/in/yashvanth-r) | [Portfolio](https://yashvanth-portfolio-alpha.vercel.app/)  
 💬 **Ask me about:** React.js, Next.js, Node.js, Nest.js, Express.js, Docker, and Frontend Development  
 📫 **Reach me at:** yashvanthr064@gmail.com  
-⚡ **Fun fact:** I love optimizing performance and crafting pixel-perfect, scalable UIs 🚀  
+⚡ **Fun fact:** I love optimizing performance and crafting pixel-perfect, scalable UIs  
 
 ---
 
