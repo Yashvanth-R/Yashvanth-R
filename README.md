@@ -16,8 +16,8 @@
 ## 🧠 Tech Stack
 
 **Frontend:** React.js, Next.js, TypeScript, JavaScript, Tailwind CSS, Chakra UI, ShadCN/UI  
-**Backend:** Node.js, Express.js, Nest.js, FastAPI  
-**Database:** PostgreSQL, MongoDB, MySQL  
+**Backend:** Node.js, Express.js, Nest.js, FastAPI
+**Database:** PostgreSQL, MongoDB, MySQL, SMSS(Microsoft)  
 **DevOps & Tools:** Docker, Git, GitHub, AWS, Vercel  
 **Others:** Redux Toolkit, Zustand, RESTful APIs, CI/CD  
 
