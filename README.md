@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashvanth-r" alt="yashvanth-r" /></a> </p>
 
-🔭 **I’m currently working as:** Frontend Developer at F9 Cybrisk Tech Pvt. Ltd.  
+🔭 **I’m currently working as:** Frontend Developer at Cybrisk Tech Pvt. Ltd.  
 🌱 **I’m currently learning:** CI/CD pipeline and DevOps practices  
 👨‍💻 **All of my projects are available at:** [LinkedIn](https://www.linkedin.com/in/yashvanth-r) | [Portfolio](https://yashvanth-portfolio-alpha.vercel.app/)  
 💬 **Ask me about:** React.js, Next.js, Node.js, Nest.js, Express.js, Docker, and Frontend Development  
