@@ -19,8 +19,8 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/yashvanth-r](https://www.linkedin.com/in/yashvanth-r)
 
-- 💬 Ask me about **React.js, Next.js, Node.js, Nest.js, Express.js, Docker, Frontend Development**
-
+- 💬 Ask me about **React.js, Next.js, Node.js, Nest.js, Express.js, Docker, AWS, Cloudflare, Frontend Development**
+  
 - 📫 How to reach me **yashvanthr064@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
