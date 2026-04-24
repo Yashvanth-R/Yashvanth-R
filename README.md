@@ -58,15 +58,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- 🔥 AI Mood-Based Coffee Recommendation System  
-- 🛒 Full Stack E-commerce Platform (Shopify + Custom Features)  
-- 📊 Admin Dashboard (Next.js + Prisma + SQL Server)  
-- 🌐 Portfolio Website (Animated UI + Modern Design)
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
@@ -80,11 +71,5 @@
   <img src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 </p>
-
----
-
-## 💡 Fun Fact
-
-> I enjoy building **real-world scalable systems** more than just UI ✨
 
 ---
