@@ -22,7 +22,7 @@
 
 ### 🖥️ Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,next,html,css,tailwind,bootstrap,materialui,vite" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,next,html,css,tailwind,bootstrap,materialui,vite,redux,shadcn/ui" />
 </p>
 
 ### ⚙️ Backend
@@ -32,12 +32,12 @@
 
 ### 🗄️ Database & Cloud
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase,aws" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase,aws,redis" />
 </p>
 
 ### 🛠️ Tools & DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=git,docker,linux,ubuntu,vscode" />
+<img src="https://skillicons.dev/icons?i=git,docker,linux,ubuntu,vscode,grafana,prometheus,rabbitmq" />
 </p>
 
 ---
