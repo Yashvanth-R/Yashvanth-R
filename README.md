@@ -9,7 +9,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - 🌍 Based in **Bangalore, Karnataka**
 - 🚀 Passionate about **Full Stack Development & Scalable Systems**
@@ -58,7 +58,7 @@
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="center">
 <a href="https://github.com/Yashvanth-R">
